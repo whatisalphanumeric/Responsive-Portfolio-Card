@@ -1,0 +1,77 @@
+Here’s a simple and professional README file for your project: 
+
+---
+
+# Responsive Portfolio Card
+
+A responsive and interactive portfolio card built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean design, responsive layout, and interactivity through a button that toggles contact details.
+
+---
+
+## ✨ Features
+
+- **Responsive Design**: Adapts to different screen sizes.
+- **Interactive Contact Button**: Shows or hides contact information when clicked.
+- **Clean and Modern UI**: Styled with CSS for a professional look.
+- **Lightweight and Fast**: Pure HTML, CSS, and JavaScript—no external libraries used.
+
+---
+
+## 📂 Project Structure
+
+```
+.
+├── index.html    # HTML structure for the portfolio card
+├── styles.css    # CSS styling for the card
+├── script.js     # JavaScript for interactivity
+```
+
+---
+
+## 🖥️ Preview
+
+![Portfolio Card Preview](https://via.placeholder.com/600x400?text=Preview+Coming+Soon)
+
+---
+
+## 🚀 How to Use
+
+1. **Clone or Download the Project**:
+   ```bash
+   git clone https://github.com/your-repo-name/responsive-portfolio-card.git
+   ```
+
+2. **Open the HTML File**:
+   - Navigate to the project folder and open `index.html` in your favorite browser.
+
+---
+
+## 📸 Screenshots
+
+### Default View
+![Default View](https://via.placeholder.com/600x400?text=Default+View)
+
+### Contact Info Visible
+![Contact Info Visible](https://via.placeholder.com/600x400?text=Contact+Info)
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML**: For creating the structure of the card.
+- **CSS**: For styling and responsiveness.
+- **JavaScript**: For adding interactivity.
+
+---
+
+## 📖 License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## 🧑‍💻 Author
+
+- **[Subhangi](https://github.com/whatisalphanumeric)**  
+  Web Developer | Designer | Tech Enthusiast
+
